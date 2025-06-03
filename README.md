@@ -19,7 +19,7 @@
   
 ## Projects 📽️
 - [MissingYou (IRIS)](https://github.com/IRIS-2024)
-- [Curry (Ottugi)](https://github.com/Ottug-i/Curry_Front)
+- [Curry (Ottugi)](https://github.com/Ottug-i)
 <br><br>
 
 ## Contact me 🤙
